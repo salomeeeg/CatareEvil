@@ -1,0 +1,31 @@
+body
+{
+font-family: impact,arial; Color: black; font-size: 16px; background-color: #E9C9B1
+}
+h1
+{
+font-family: impact,arial; Color: black; font-size: 40px; text-decoration: underline;
+}
+strong
+{
+  font-size: 20px;
+}
+footer
+{
+  font-size: 25px;
+}
+.source
+{
+  font-size: 14px;
+  display: flex;
+  justify-content: flex-end;
+}
+a
+{
+  color: brown;
+}
+.div
+{
+  display: flex;
+  align-self: flex-end;
+}
